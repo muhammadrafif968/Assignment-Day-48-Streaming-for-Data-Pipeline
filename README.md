@@ -1,16 +1,3 @@
-# Day 48 Streaming Data Pipeline Assignment
-
-## 📁 Folder Structure
-
-assignment/
-│
-├─ producer/
-│  └─ producer.py
-├─ streaming/
-│  └─ spark_streaming_job.py
-├─ docker-compose.yml
-└─ README.md
-
 ## 🐳 Docker Setup
 
 Docker Compose sudah include:
